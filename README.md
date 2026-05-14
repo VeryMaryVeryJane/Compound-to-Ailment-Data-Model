@@ -6,6 +6,13 @@ The Business Problem: In the highly regulated Ohio medical cannabis market, stat
 
 The Data Solution: I architected and developed a relational Power BI dashboard that serves as a self-guided educational tool. By matching specific chemical compounds (cannabinoids and terpenes) to documented ailments, the dashboard bypasses the operational bottleneck, allowing patients to make data-driven purchasing decisions safely and legally.
 
+<p align="center">
+  <img src="problem_compound_match.png" width="30%" alt="Compound Search" />
+  <img src="strain_education.png" width="30%" alt="Strain Education" />
+  <img src="model_view.png" width="30%" alt="Model View" />
+  <img src="dax.png" width="30%" alt="DAX" />
+</p>
+
 ### Technical Execution:
 
 ETL & Data Scraping: Extracted unstructured data from books and PDF research documents, converting scanned imagery into readable, structured datasets.
